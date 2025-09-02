@@ -1,43 +1,43 @@
-Username, Salt Used,
-CAllen, 
-CAnderson,
-CArcher,
-CBaker,
-JBennett,
-ABhardwaj,
-ICollins,
-JCox,
-HCulp,
-CDalton,
-BDunson,
-GFrancis,
-SFricke,
-AGlass,
-DGnau,
-JHeath,
-DJirel,
-AKeenan,
-AKelly,
-RKocher-harper,
-NLargent,
-BLevon,
-ALothes,
-EMann,
-HMcintosh,
-RMiller,
-KMilliner,
-PPonugoti,
-VRichards,
-ERuiz,
-SSagiev,
-DSanchez,
-LSmith,
-ASouthward,
-SStare,
-NVu,
-CWhite,
-JWilliams,
-JWise,
-EWoessner,
-TYoung,
-EZecchini,
+Username, Salt Used, Salted Hash,
+CAllen, 00001, 
+CAnderson, 00002,
+CArcher, 00003
+CBaker, 00004
+JBennett, 00005
+ABhardwaj, 00006
+ICollins, 00007
+JCox, 00008
+HCulp, 00009
+CDalton, 00010
+BDunson, 00011
+GFrancis, 00012
+SFricke, 00013
+AGlass, 00014
+DGnau, 00015
+JHeath, 00016
+DJirel, 00017
+AKeenan, 00018
+AKelly, 00019
+RKocher-harper, 00020
+NLargent, 00021
+BLevon, 00022
+ALothes, 00023
+EMann, 00024
+HMcintosh, 00025
+RMiller, 00026
+KMilliner, 00027
+PPonugoti, 00028
+VRichards, 00029
+ERuiz, 00030
+SSagiev, 00031
+DSanchez, 00032
+LSmith, 00033
+ASouthward, 00034
+SStare, 00035
+NVu, 00036
+CWhite, 00037
+JWilliams, 00038
+JWise, 00039
+EWoessner, 00040
+TYoung, 00041
+EZecchini, 00042

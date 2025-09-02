@@ -10,7 +10,7 @@
 Answer the following in this file:
 
 * How many unique users are in the data? In the data there are 42 unique users.
-* How many salts did you create?
+* How many salts did you create? 42 unique salts
 * How many possible combinations will I need to try to figure out the secret ID
   of all students (assume I know all potential secret IDs and have your 
   `salted-data.csv`)
