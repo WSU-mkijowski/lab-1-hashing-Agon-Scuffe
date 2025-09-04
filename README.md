@@ -13,16 +13,11 @@ Answer the following in this file:
 * How many salts did you create? 42 unique salts
 * How many possible combinations will I need to try to figure out the secret ID
   of all students (assume I know all potential secret IDs and have your 
-  `salted-data.csv`)
+  `salted-data.csv`) 4.2 million
 * Instead of salts, if you were to use a nonce (unique number for each hashed
-  field) how many possible combinations would I need to try?
+  field) how many possible combinations would I need to try?  42 quadrillion
 * Given the above, if this quiz data were *actual* class data, say for example
-  your final exam, how would you store this dataset?  Why?
-
-```bash
-please put any cool bash one-liners or other piped commands you
-learned/struggled with for task 1 here
-```
+  your final exam, how would you store this dataset?  Why? I would have it in a database. The reason I would store it in a database is because you can have access control applied to the data as well as have salted hashes for the data to prevent potential reverse engineering.
 
 ---
 
